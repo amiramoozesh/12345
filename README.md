@@ -20,7 +20,7 @@ window.geometry ("400x300")
 
 label = tk. Label(
     window,
-    text='!با یگانه ازدواج میکنی؟',
+    text='!با من ازدواج میکنی؟',
     font=("vazir bold", 18))
 label.pack(pady=20)
 
